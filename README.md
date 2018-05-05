@@ -1,2 +1,0 @@
-# ReactHelloWorld
-Created with CodeSandbox
